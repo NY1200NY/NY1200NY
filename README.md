@@ -1,15 +1,24 @@
-### Hi there 👋,I'm zhe.
+<div align='center'>
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
+[![header]][home]
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+[![moe-counter]][home]
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+[![genshin-image]][genshin-link]
 
-### My Skill Set
+[![stats]][home]
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![language]][home]
+
+</div>
+
+[home]: https://github.com/RealHeart
+
+[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=真心(RealHeart)&fontSize=45
+[moe-counter]: https://count.getloli.com/get/@RealHeart?theme=rule34
+
+[stats]: https://github-readme-stats.vercel.app/api?username=RealHeart&locale=cn&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true
+[language]: https://github-readme-stats.vercel.app/api/top-langs?username=RealHeart&locale=cn&show_icons=true&theme=transparent&card_width=470&hide_border=true
+
+[genshin-image]: https://genshin-card.himiku.com/rand/75006841.png
+[genshin-link]: https://enka.network/u/100838389
